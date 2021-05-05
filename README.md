@@ -1,4 +1,4 @@
-# Hadoop_The_Definitive_Guide_Notes
+# 《Hadoop权威指南 大数据的存储与分析》笔记 (Hadoop The Definitive Guide Notes)
 
  - [第一章 - 初识Hadoop](./ch01.md)
  - [第二章 - 关于MapReduce](./ch02.md)
