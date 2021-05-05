@@ -1,7 +1,7 @@
 # Hadoop_The_Definitive_Guide_Notes
 
- - [ch01]("./ch01.md")
- - [ch02]("./ch02.md")
+ - [第一章 - 初识Hadoop](./ch01.md)
+ - [第二章 - 关于MapReduce](./ch02.md)
 
 ## Useful Links:
 
